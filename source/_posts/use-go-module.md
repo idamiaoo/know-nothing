@@ -1,7 +1,8 @@
 ---
-title: go module 迁移
+title: Go Module 迁移
 date: 2020-07-14 12:20:55
 category: golang
+description: 项目仓库使用 go module 记录
 tag:
     - golang
     - https

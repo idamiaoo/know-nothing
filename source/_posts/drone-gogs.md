@@ -1,5 +1,5 @@
 ---
-title: 利用 drone 和 gogs 搭建部署平台 
+title: 利用 Drone 和 Gogs 搭建部署平台 
 date: 2016-11-15 16:55:23
 category: 工具
 tags:

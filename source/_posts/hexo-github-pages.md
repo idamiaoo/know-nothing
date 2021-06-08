@@ -3,11 +3,13 @@ title: 利用用 hexo和 github pages 搭建个人博客
 date: 2017-07-14 17:21:42
 toc: true
 category: 工具
+description: 快速搭建一个独立博客,独立的才是自己的
 tags: 
   - "hexo"
   - "blog"
 
 ---
+
 
 ## 准备
 
